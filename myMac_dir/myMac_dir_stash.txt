@@ -1,1 +1,0 @@
-line 1 to file myMac_dir_stash.txt
