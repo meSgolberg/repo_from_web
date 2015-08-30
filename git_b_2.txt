@@ -1,2 +1,3 @@
 First line of git_b_2.txt
+Second line of git_b_2.txt added on VM
 
