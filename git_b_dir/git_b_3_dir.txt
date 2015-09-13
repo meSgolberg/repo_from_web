@@ -1,2 +1,3 @@
 First line of git_b_3.txt
-
+Second line in git_b_3.txt, added on GitHub
+Third line in  git_b_3.txt, added on GitHub
