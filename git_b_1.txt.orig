@@ -2,7 +2,8 @@ First line of git_b_1.txt
 Edited on web-2
 Edited on web-l3-web
 <<<<<<< HEAD
-Edited on Mac-l4
+After checkout 9660949933d6d7ff2908e53c387d243d74727315
 =======
 Edited on web-l4-web
->>>>>>> 9e67c84af9ea01fac7177972936c83148c9bb58f
+Edited on Mac-l4
+>>>>>>> 4cc45ad3f530e54ac676c98e288925922e6f078c
