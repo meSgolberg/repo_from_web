@@ -6,4 +6,8 @@ Fifth line of git_b_2.txt added on Mac
 Sixth line of git_b_2.txt added on Web
 Seventh line of git_b_2.txt added on Mac
 Eightth line of git_b_2.txt added on Web
+<<<<<<< HEAD
+Nineth line of git_b_2.txt added on Mac
+=======
 Nineth line of git_b_2.txt added on Web
+>>>>>>> 79af3f98271787bb05ebafe1caa542c0fc9a64d2
