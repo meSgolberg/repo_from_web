@@ -1,2 +1,3 @@
 First line of git_b.txt
+Second line of git_b.txt, attemmpt to merge pulls
 
